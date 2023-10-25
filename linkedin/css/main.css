@@ -1,0 +1,8 @@
+.search-icon {
+    position: absolute;
+    top: 50%;
+    right: 10px; /* Resmin sağ kenardan mesafesi */
+    transform: translateY(-50%);
+    width: 20px; /* Resim genişliği */
+    height: 20px; /* Resim yüksekliği */
+}
